@@ -2,9 +2,9 @@
  * Pythagorean.java  09/04/14
  *
  * @author - Tunde Odulate
- * @author - Period 3 CMHS
+ * 
  *
- * @author - I received help from ...
+ * 
  *
  */
 import java.lang.Math;
